@@ -113,7 +113,7 @@ Your code will be run for 30 trials. If the mean fitness is within two standard 
 - Due to the stochastic nature of evolutionary computation, TAs will modifies line 6 in `judger.py` to set `test_num = 30` in grading process. This means each program will be executed 30 times, and the average fitness is checked against the expected range.  
   - If you notice that with `test_num = 1`, your results sometimes pass and sometimes fail, try increasing `test_num` to examine the averaged performance.
 
-To run judger, place your executable and `judger.py` in the same directory, then run:
+To run judger, place your executable, `judger.py`, and whole `testcase` file in the same directory, then run:
 ```bash
 python judger.py
 ```
