@@ -1,4 +1,4 @@
-# EC_HW_2025
+# EC_HW_2026
 
 ## Table of Contents
 - [Latest Announcement](#latest-announcement)
@@ -17,7 +17,7 @@
 ---
 
 ## Latest Announcement
-(09/22) If you encounter any issues or have any questions regarding this repository, please feel free to open an issue or ask on eeclass.
+(10/05) If you encounter any issues or have any questions regarding this repository, please feel free to open an issue or ask on eeclass.
 
 ---
 
@@ -25,8 +25,8 @@
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/CILAB715/EC_HW_2025.git
-cd EC_HW_2025
+git clone https://github.com/CILAB715/EC_HW_2026.git
+cd EC_HW_2026
 ```
 
 C++:
@@ -193,16 +193,16 @@ For binary representation, treat the individual as a bit array of length $10 \ti
 
 ## Submission Guidelines
 
-Suppose your student ID is `114062500`.
+Suppose your student ID is `115062500`.
 
-If using **C/C++**, package your submission as `114062500_SCH.zip/rar`, containing:
+If using **C/C++**, package your submission as `115062500_SCH.zip/rar`, containing:
 ```
 Makefile          (ensure the executable is named "main")
 report.pdf        (must be named exactly "report.pdf")
 other source code (e.g., main.cpp, parser.h, parser.cpp, ...)
 ```
 
-If using **Python**, package your submission as `114062500_SCH.zip/rar`, containing:
+If using **Python**, package your submission as `115062500_SCH.zip/rar`, containing:
 ```
 main.py           (must be named exactly "main.py")
 report.pdf        (must be named exactly "report.pdf")
